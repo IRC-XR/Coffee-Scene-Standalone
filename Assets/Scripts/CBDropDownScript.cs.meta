@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 143a2e2c625097a478e912bd6789719f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - infoBox: {instanceID: 0}
+  - imageBox: {instanceID: 0}
+  - cb_i: {instanceID: 0}
+  - p_i: {instanceID: 0}
+  - d_i: {instanceID: 0}
+  - t_i: {instanceID: 0}
+  - pOpia_i: {instanceID: 0}
+  - dOpia_i: {instanceID: 0}
+  - tOpia_i: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
